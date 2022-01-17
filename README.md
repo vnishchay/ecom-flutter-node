@@ -18,7 +18,7 @@ flutter run
 
 ```
 
-[ecom-flutter-node](https://mousy-college-2e8.notion.site/ecom-flutter-node-9968570d29d74a018ea92356b18b6178)
+[documentation :  Link](https://mousy-college-2e8.notion.site/ecom-flutter-node-9968570d29d74a018ea92356b18b6178)
 
 ##
 
