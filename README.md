@@ -20,8 +20,8 @@ flutter run
 ```
 
 ### Pages
+<img align="right" width="100" height="100" src=![Screenshot_20220117_135038.jpg](ecom-flutter-node%20ef67319284424cc2b96aff74d70782b5/Screenshot_20220117_135038.jpg)>
 
-![Screenshot_20220117_135038.jpg](ecom-flutter-node%20ef67319284424cc2b96aff74d70782b5/Screenshot_20220117_135038.jpg)
 ![Screenshot_20220117_135326.jpg](ecom-flutter-node%20ef67319284424cc2b96aff74d70782b5/Screenshot_20220117_135326.jpg)
 
 
